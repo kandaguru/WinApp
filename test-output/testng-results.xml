@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="99537" started-at="2019-01-03T13:07:38Z" finished-at="2019-01-03T13:09:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="99537" started-at="2019-01-03T13:07:38Z" finished-at="2019-01-03T13:09:18Z">
+      <class name="com.qa.osc.test.OscTest">
+        <test-method status="PASS" signature="setup_And_Login()[pri:0, instance:com.qa.osc.test.OscTest@57baeedf]" name="setup_And_Login" is-config="true" duration-ms="10115" started-at="2019-01-03T13:07:38Z" finished-at="2019-01-03T13:07:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup_And_Login -->
+        <test-method status="PASS" signature="osc_Get_Data()[pri:0, instance:com.qa.osc.test.OscTest@57baeedf]" name="osc_Get_Data" duration-ms="82763" started-at="2019-01-03T13:07:49Z" finished-at="2019-01-03T13:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- osc_Get_Data -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.osc.test.OscTest@57baeedf]" name="tearDown" is-config="true" duration-ms="6628" started-at="2019-01-03T13:09:11Z" finished-at="2019-01-03T13:09:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.osc.test.OscTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
